@@ -101,9 +101,9 @@ Edite as variáveis CSS no início do arquivo `style.css`:
 ## 📞 Informações de Contato (Para Personalizar)
 
 - **E-mail**: contato@aplixone.com
-- **Telefone**: +55 (11) 99999-9999
+- **Telefone**: +55 (35) 988239703
 - **WhatsApp**: Configurado nos botões CTA
-- **Localização**: São Paulo, SP
+- **Localização**: Lavras, MG
 
 ## 🔧 Otimizações Incluídas
 
@@ -129,3 +129,4 @@ Edite as variáveis CSS no início do arquivo `style.css`:
 
 **Site desenvolvido com inspiração no design da Gafit.com.br**  
 *AplixOne - Soluções em Desenvolvimento* 🚀
+
